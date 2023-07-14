@@ -1,4 +1,4 @@
-<p align="center"> <img width="70%" height="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="abc"></p>
+<p align="center"> <img width="80%" height="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="abc"></p>
 
 <h2 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/skabusaeed1" target="_blank" rel="noopener noreferrer">Shaikh Abusaeed</a>.
